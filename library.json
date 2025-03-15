@@ -1,0 +1,37 @@
+[
+    {
+        "title": "typescript",
+        "author": "",
+        "year": 2011,
+        "genre": "",
+        "read": true
+    },
+    {
+        "title": "python",
+        "author": "",
+        "year": 2016,
+        "genre": "technology",
+        "read": true
+    },
+    {
+        "title": "java",
+        "author": "sana",
+        "year": 2014,
+        "genre": "education",
+        "read": true
+    },
+    {
+        "title": "figma",
+        "author": "sana",
+        "year": 2022,
+        "genre": "UIUX",
+        "read": true
+    },
+    {
+        "title": "english",
+        "author": "sana",
+        "year": 2016,
+        "genre": "education",
+        "read": true
+    }
+]
